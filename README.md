@@ -1,6 +1,9 @@
 # car-makes-icons
 SVG Icons / Font for Cars Makes to match Edmunds API
 
+## CDN
+ `https://gitcdn.xyz/repo/stephenwadeauto/car-makes-icons/master/car-makes-icons.min.css`
+
 ## Install
 `npm install car-makes-icons --save`
 
